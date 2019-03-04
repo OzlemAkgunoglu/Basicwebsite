@@ -61,7 +61,11 @@
     margin-bottom:13px;}
 .body {
     background-color:#ffffff;}
-  
+img {
+  max-width:100%;
+  height:auto;
+  margin: 0 0 10px 0 ;
+} 
     
     
     
